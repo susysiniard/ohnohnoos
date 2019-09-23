@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://caechoowi.please-hire.me/sitemap.xml
